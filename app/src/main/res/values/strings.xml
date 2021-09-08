@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bitcoin_Converter_App</string>
+    <string name="bitcoin_converter_app">BITCOIN CONVERTER APP</string>
+    <string name="content_description_img">ignore</string>
+    <string name="convert_btn">CONVERT</string>
+    <string name="amount_in_naira">Enter Amount in Naira</string>
+    <string name="signature_view">Developed By Adeyinka Fatona</string>
+    <string name="btc_amount">BTC Amount: %s</string>
+</resources>
